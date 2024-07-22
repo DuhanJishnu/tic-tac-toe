@@ -1,0 +1,40 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# C++ specific
+*.class
+
+# Generated files
+*.dll
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
